@@ -51,7 +51,3 @@ Download the repository and open:
 
 in any modern web browser.
 
-## SIH Prototype
-
-This project demonstrates the software component
-of a potential IoT-based water leakage detection system.
