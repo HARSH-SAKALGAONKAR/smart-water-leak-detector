@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Water Leak Detector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>💧 Smart Water Leak Detector</h1>
+        <p>Real-time pipeline monitoring dashboard</p>
+    </header>
+
+    <main>
+
+        <section class="dashboard">
+
+            <div class="card">
+                <h3>Flow Rate</h3>
+                <p id="flow">-- L/min</p>
+            </div>
+
+            <div class="card">
+                <h3>Pressure</h3>
+                <p id="pressure">-- bar</p>
+            </div>
+
+            <div class="card">
+                <h3>Water Usage</h3>
+                <p id="usage">-- L</p>
+            </div>
+
+            <div class="card status-card">
+                <h3>System Status</h3>
+                <p id="status">Checking...</p>
+            </div>
+
+        </section>
+
+        <section class="monitor">
+
+            <h2>Pipeline Monitoring</h2>
+
+            <div class="pipe">
+                <div class="water"></div>
+                <div id="leak" class="leak"></div>
+            </div>
+
+            <button onclick="simulateLeak()">
+                Simulate Leak
+            </button>
+
+            <button onclick="resetSystem()">
+                Reset System
+            </button>
+
+            <p id="alert"></p>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>SIH Prototype • Smart Infrastructure</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
