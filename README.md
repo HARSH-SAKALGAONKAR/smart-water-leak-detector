@@ -26,7 +26,6 @@ Abnormal readings trigger a leak warning.
 - JavaScript
 
 ## Features
-
 - Real-time simulated sensor readings
 - Leak detection
 - Pipeline visualization
@@ -50,4 +49,5 @@ Download the repository and open:
 `index.html`
 
 in any modern web browser.
+- HARSH-SAKALGAONKAR
 
