@@ -50,5 +50,3 @@ Download the repository and open:
 
 in any modern web browser.
 - HARSH-SAKALGAONKAR
-how to  fdfr=t jfshsfenkd dhghidskjn isfhsdjijopiehisd hehfdnfsdh emaharhj esinmdo  sdjfndhf fo fjnsdsf hein dfhdnvbnas bf shw xzc asfhc sdniof zxhiof  fhifd hies 
-hiohthtshihserhetbsehirewhirehiotseihehteiothethesoeo
